@@ -1,0 +1,172 @@
+@charset "utf-8";
+
+body,html {
+	background-image: url(image/hPDkLv2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    left: 20%;                 
+    margin-left: -450px;
+    position: absolute;  
+}
+
+#maket {
+width:1600px;
+margin:0 auto;
+}
+
+#shap{
+    background-size: cover;
+	margin-top: 20px;
+	position: center top;
+	width:1153px; /* Длина фигуры */
+ 	height:250px; /* Высота фигуры */
+ 	background-image: url(image/PlBRZzU.jpg);
+ 	-moz-border-radius: 10px 10px 0 0; /* закругление для старых Mozilla Firefox */
+ 	-webkit-border-radius: 10px 10px 0 0; /* закругл. для старых Chrome и Safari */
+ 	-khtml-border-radius:10px 10px 0 0; /* закругл. для браузера Konquerer системы Linux */
+ 	border-radius: 10px 10px 0 0; /* закругление углов для всех, кто понимает */
+}
+
+.menu {
+    display: table;
+    width: 1150px;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+    display: table-cell;
+    float: none;
+}
+
+.menu li a {
+    display: block;
+    padding: 8px 15px;
+    background: #E5E5E5;
+    font-family: Arial;
+    font-size: 14px;
+    color: #514F4F;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.menu li a:hover {
+    background: #B7B7B7;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+}
+
+#bloc{
+	font: Arial;
+	font-size: 15px;
+	color: #FF999A;
+	box-shadow: 5px;
+	padding-left: 20px;
+	background-color: #A71C12;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	box-shadow: 0 0 5px rgba(0,0,0,0.5); /* Параметры тени */
+	margin-left: -4px;
+	margin-top: 10px;
+}
+#left{
+background-color: #1D1D1D;
+width:250px;
+height:1000px;
+float:left;
+padding-bottom: 10px;
+}
+
+#presss {
+	margin-top: 3px; 
+	margin-left: 50px;
+}
+
+#content{
+    height:1010px;
+	background-color: #1D1D1D;
+	width: 650px;
+	min-height: 450px;
+	max-height: 5000px;
+	float: left;
+	margin-bottom: 20px;
+}
+
+#blokk {
+	background-color: white;
+	width: 781px;
+	min-height: 500px;
+	max-height: 4000px;
+	margin-bottom: 30px;
+	-moz-border-radius: 0 0 10px 10px; /* закругление для старых Mozilla Firefox */
+ 	-webkit-border-radius: 0 0 10px 10px; /* закругл. для старых Chrome и Safari */
+ 	-khtml-border-radius: 0 0 10px 10px; /* закругл. для браузера Konquerer системы Linux */
+ 	border-radius: 0 0 10px 10px; /* закругление углов для всех, кто понимает */
+}
+
+#vk_groups {
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 140px;
+}
+
+#footer{
+	margin-top: 10px;
+	background-color:#FFC0FF;
+}
+
+#block12{
+background-color: #FFF;
+width: 900px;
+max-height: 500px;
+}
+
+#right{
+background-color: #1D1D1D;
+color: black;
+width:253px;
+height:1000px;
+float:left;
+padding-bottom: 10px;
+}
+
+#1Red{
+width:200px;
+border-style:double;
+height:350px;
+text-align:left;
+background-color:#E1291B;
+color:white;
+}
+
+#middle2 {
+width:1153px;
+color:#F4F8FB;
+background: #CA6A16; 
+height: 52px; 
+font-size: 13px;
+line-height: 52px;
+}
+
+#margin-right: 37px;{
+color:white;
+background: #CA6A16; 
+}
+#2Red{
+background-color:#A71C12;
+color:white;
+width:200px;
+height:60px;
+}
+#lec1 {
+background-color: white;
+width:1150px;
+height:440px;
+float:left;
+}
